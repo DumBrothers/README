@@ -3,7 +3,7 @@
 
 - Git branch 설명
     - master(main) : 공식 릴리즈를 기록하는 브랜치, prod 배포용 브랜치
-    - release: 출시 버전을 준비하는 브랜치 ()
+    - release: 출시 버전을 준비하는 브랜치 (생략 가능)
     - develop: 개발용 브랜치, 이슈로 브랜치 생성 후 개발
     - feature-issue#[number]: github 에서 개발 이슈 생성 후 나온 번호로 브랜치 이슈를 만듬
     - hotfix#[release-version]: master, release 로 바로 Push 하게되는 긴급 수정 브랜치
